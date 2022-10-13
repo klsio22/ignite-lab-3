@@ -1,5 +1,9 @@
 import './styles/global.css'
 
 export function App() {
-  return <div className='font-bold text-violet-500'>Hello word</div>;
+  return <div className='text-2xl text-cyan-500 '>
+    Hello word
+   
+    <h1></h1>
+    </div>;
 }
